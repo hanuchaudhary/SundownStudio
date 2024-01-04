@@ -54,5 +54,5 @@ menuBar();
 
 let loader = document.querySelector(".loader");
 setTimeout(function(){
-    loader.style.top = "-100%"
+    loader.style.top = "-120%"
 },3500)
