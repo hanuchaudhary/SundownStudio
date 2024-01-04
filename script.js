@@ -55,4 +55,4 @@ menuBar();
 let loader = document.querySelector(".loader");
 setTimeout(function(){
     loader.style.top = "-100%"
-},1500)
+},3500)
